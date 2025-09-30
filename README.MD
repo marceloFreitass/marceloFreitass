@@ -1,8 +1,8 @@
 <div align="start">
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=MarceloFreitass&label=Profile%20views&color=0e75b6&style=flat" alt="raquelpm" /> </p>
   <a href="https://github.com/MarceloFreitass">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=marcelofreitass&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
- <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=marcelofreitass&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marceloFreitass&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marceloFreitass&layout=compact&langs_count=7&theme=monokai"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
